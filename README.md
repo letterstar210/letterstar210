@@ -3,7 +3,7 @@
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sing3demons&langs_count=26&layout=compact&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21)](https://github.com/sing3demons/sing3demons)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=letterstar210&langs_count=26&layout=compact&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21)](https://github.com/letterstar210/letterstar210)
 
 <!--
 **letterstar210/letterstar210** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
