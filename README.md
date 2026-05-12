@@ -3,7 +3,8 @@
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=letterstar210&langs_count=26&layout=compact&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21)](https://github.com/letterstar210/letterstar210)
+[![Top Langs](https://github-readme-stats.vercel.app/api?username=letterstar210&langs_count=26&layout=compact&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21)](https://github.com/letterstar210/letterstar210)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 
 <!--
 **letterstar210/letterstar210** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
