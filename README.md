@@ -9,7 +9,7 @@
 
 [![Github Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=letterstar210)](https://github.com/letterstar210)
 
-[![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=letterstar210&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Top Langs](https://github-readme-stats-tau-six.vercel.app/api/top-langs/?username=letterstar210&layout=compact&theme=vision-friendly-dark)](https://github.com/letterstar210)
 <!--
 **letterstar210/letterstar210** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
