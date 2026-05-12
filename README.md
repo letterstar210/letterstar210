@@ -2,7 +2,7 @@
 
 
 
-
+[![GitHub Streak](https://streak-stats.demolab.com/?user=letterstar210)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api?username=letterstar210&langs_count=26&layout=compact&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21)](https://github.com/letterstar210/letterstar210)
 ![Top Langs](https://github-readme-stats.vercel.app/api?username=letterstar210&show_icons=true&theme=radical)
 
