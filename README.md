@@ -3,9 +3,13 @@
 
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=letterstar210)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api?username=letterstar210&langs_count=26&layout=compact&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21)](https://github.com/letterstar210/letterstar210)
-![Top Langs](https://github-readme-stats.vercel.app/api?username=letterstar210&show_icons=true&theme=radical)
 
+<!--[![Top Langs](https://github-readme-stats.vercel.app/api?username=letterstar210&langs_count=26&layout=compact&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21)](https://github.com/letterstar210/letterstar210)
+![Top Langs](https://github-readme-stats.vercel.app/api?username=letterstar210&show_icons=true&theme=radical)-->
+
+[![Github Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=letterstar210)](https://github.com/letterstar210)
+
+[![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=letterstar210&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 <!--
 **letterstar210/letterstar210** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
